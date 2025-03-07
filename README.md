@@ -20,7 +20,9 @@ Estou tentando recriar a primeira versão do Minecraft, a rd-132211, na linguage
 
 #### Um pouco da minha história:
 
-Acho que o meu primeiro contato com programação foi tentando criar mods para Minecraft em meados de 2017, e como eu não fazia ideia do que estava fazendo, e não faço até hoje, foi usando um programa chamado PyloMCreator.
+Meu primeiro contato com programação, que eu me recordo, foi tentando criar mods para Minecraft em meados de 2017, e como eu não fazia ideia do que estava fazendo, e não faço até hoje, foi usando um programa chamado PyloMCreator. Eu tinha encontrado o codigo de como o bloco de grama do minecraft se espalhava, e fiz a grama crescendo por estagios:
+![Imagem2](https://github.com/user-attachments/assets/345cecdf-d165-4379-8f5b-7cf783307f4d)
+
 
 No final de 2019, quando sai de uma internação psiquiatrica pra tentar tratar minha depressão, tinha uma propaganda de um certo curso, que prefiro não mensionar para evitar possiveis problemas juridicos futuros, que prometia ensinar a recriar o Minecraft. Apesar de frustrada com o curso, acho que acabei ficando um pouco obsecada com isso, conheci alguns outros cursos na Udemy e alguns videos no YouTube, você pode ver meu melhor resultado nestes videos curtos (segue os links):
 - https://youtu.be/N4mYw29mtlo?si=AdKo6G4cRmIHez4b
