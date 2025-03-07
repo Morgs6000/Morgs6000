@@ -73,3 +73,5 @@ Creditos pelo README.md, me baseei no README.md de um seguido, não sei como fa�
 Queria aprender a deixar os icones um em cima do outro com o nome na frente.
 Atualmente estou tentando aprender como usar o GitHub pq sempre reclamam e eu não estou entendo o pq.
 Talvez esse README.md esteja ficando muito grande, mas depois eu arrumo... to aprendendo, tenham paciencia comigo.
+Me recomendaram usar a biblioteca BulletSharp para implementar a fisica, mas eu não faço a mais p*** ideia de como usar, e não encontrei nenhum video ou tutorial.
+Também gostaria de um biblioteca para implementar objetos 3D, para quando eu inciar a proxima versão a rd-132328 que tem aqueles Steve(s) doidos correndo e pulando pra tudo quanté lado.
