@@ -10,7 +10,7 @@ Tentando aprender programação, e eu realmente não faço ideia do que estou fa
 
 <code><img height="30" src="https://avatars.githubusercontent.com/u/5914736?s=280&v=4" /></code> OpenTK
 
-
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" /></code> StbImageSharp
 
 ## 🚀 Objetivo:
 
@@ -29,7 +29,7 @@ No final de 2019, quando sai de uma internação psiquiatrica pra tentar tratar 
 - https://youtu.be/vxxl5rHKTDs?si=pHeMn4gn24IGMXZ0
 - https://youtu.be/2SBipgQl19Q?si=m5lo5s8cxQbAyhiD
 
-Em algum momente, acho que em 2023, a Unity tava com umas polemicas de cobrança, tentei migrar para a Godot, mas não conseguia descobrir como renderizar voxels na engine de jeito nenhum, conheci o site LearnOpenGL, onde ensina a fazer alguma coisa em C++, mas ja fracassei tentando instalar a biblioteca GLFW, tentei em Java usando a biblioteca LWJGL, como o Minecraft, mas também não fui muito longe, e acabei de C#, que era uma biblioteca que ja estava familiarizada com a Unity, com a biblioteca OpenTK.
+Em algum momente, acho que em 2023, a Unity tava com umas polemicas de cobrança, tentei migrar para a Godot, mas não conseguia descobrir como renderizar voxels na engine de jeito nenhum, conheci o site LearnOpenGL, onde ensina a fazer alguma coisa em C++, mas ja fracassei tentando instalar a biblioteca GLFW, tentei em Java usando a biblioteca LWJGL, como o Minecraft, mas também não fui muito longe, e acabei de C#, que era uma linguagem que ja estava familiarizada por causa da Unity, com a biblioteca OpenTK.
 
 Aqui esta uma imagem do meu progresso ja usando o Perlin Noise da versão rd-160052:
 ![Image](https://github.com/user-attachments/assets/98b0d398-5293-4cb3-b65f-a12a5d807f08)
