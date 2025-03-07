@@ -1,20 +1,18 @@
 Tentando aprender programação, e eu realmente não faço ideia do que estou fazendo 😅.
 
-#### 💻 Tecnologias e Ferramentas:
+## **💻 Tecnologias e Ferramentas:**  
 
-- VS Code
-- C#
-- OpenGL
-- OpenTK
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code> VS Code
 
-## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></code> C#
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" /></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/5914736?s=280&v=4" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" /></code> OpenGL
 
-#### 🚀 Objetivo:
+<code><img height="30" src="https://avatars.githubusercontent.com/u/5914736?s=280&v=4" /></code> OpenTK
+
+
+
+## 🚀 Objetivo:
 
 Estou tentando recriar a primeira versão do Minecraft, a rd-132211, na linguagem C# usando a biblioteca OpenTK (e falhando mizeravelmente).
 
@@ -72,7 +70,7 @@ Creditos pelo README.md, me baseei no README.md de um seguido, não sei como fa�
 
 #### P.S.:
 
-Queria aprender a deixar os icones um em cima do outro com o nome na frente.
+Queria aprender a deixar os icones um em cima do outro com o nome na frente. (P.P.S. Descobri)
 Atualmente estou tentando aprender como usar o GitHub pq sempre reclamam e eu não estou entendo o pq.
 Talvez esse README.md esteja ficando muito grande, mas depois eu arrumo... to aprendendo, tenham paciencia comigo.
 Me recomendaram usar a biblioteca BulletSharp para implementar a fisica, mas eu não faço a mais p*** ideia de como usar, e não encontrei nenhum video ou tutorial.
