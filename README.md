@@ -75,3 +75,16 @@ Atualmente estou tentando aprender como usar o GitHub pq sempre reclamam e eu n�
 Talvez esse README.md esteja ficando muito grande, mas depois eu arrumo... to aprendendo, tenham paciencia comigo.
 Me recomendaram usar a biblioteca BulletSharp para implementar a fisica, mas eu não faço a mais p*** ideia de como usar, e não encontrei nenhum video ou tutorial.
 Também gostaria de um biblioteca para implementar objetos 3D, para quando eu inciar a proxima versão a rd-132328 que tem aqueles Steve(s) doidos correndo e pulando pra tudo quanté lado.
+
+Extras:
+![image](https://github.com/user-attachments/assets/c3640a1a-2449-4d19-8949-21471224c90e)
+![image](https://github.com/user-attachments/assets/daff38ec-e03c-46e5-aceb-3f9718f89e93)
+![image](https://github.com/user-attachments/assets/218cf6e4-698d-4b1e-ba70-db7a0f7c0bf2)
+![image](https://github.com/user-attachments/assets/f28639e5-fa37-4ccf-a46e-183bce90e1ed)
+![image](https://github.com/user-attachments/assets/f19cb636-50e2-464c-9b3b-9e5d72981eb6)
+![image](https://github.com/user-attachments/assets/d55eb6f3-ff28-4ec6-b17c-31f4a43df2bd)
+![image](https://github.com/user-attachments/assets/c43780e0-e040-4b1a-ab74-bd61bd5a8229)
+![image](https://github.com/user-attachments/assets/a84641f7-d440-4601-9604-2e47ffe97e9c)
+![image](https://github.com/user-attachments/assets/80cb6cae-bc59-4051-9dd4-ec83f6a21f2f)
+![image](https://github.com/user-attachments/assets/8eefc663-7da1-4ffd-9f68-38cfc9b717b0)
+
